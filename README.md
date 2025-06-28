@@ -177,3 +177,5 @@ For issues or questions:
 2. Verify your API keys are correctly configured
 3. Ensure stable internet connection for video generation
 4. Review browser console for detailed error messages
+
+Made with ❤️ by Abd ul Hannan
